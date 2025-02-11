@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div>
             <div className="flex items-center gap-2 text-gold mb-4">
-              <TreePine className="w-8 h-8" />
+              <img src="/attached_assets/RFSlogo.jpeg" alt="Ready Forest Solutions" className="w-12 h-12 object-contain" />
               <span className="font-typewriter text-xl font-bold">Ready Forest</span>
             </div>
             <p className="font-sans text-sm">Professional tree services you can trust. Serving Alberta with pride since 2010.</p>
@@ -37,13 +37,13 @@ export default function Footer() {
           <div>
             <h3 className="font-typewriter text-gold font-semibold mb-4">Connect With Us</h3>
             <div className="flex space-x-4">
-              <a href="#" className="hover:text-gold transition-colors">
+              <a href="https://www.facebook.com/rfs1800" target="_blank" rel="noopener noreferrer" className="hover:text-gold transition-colors">
                 <Facebook className="w-6 h-6" />
               </a>
-              <a href="#" className="hover:text-gold transition-colors">
+              <a href="https://x.com/JeffReady4" target="_blank" rel="noopener noreferrer" className="hover:text-gold transition-colors">
                 <Twitter className="w-6 h-6" />
               </a>
-              <a href="#" className="hover:text-gold transition-colors">
+              <a href="https://www.instagram.com/jeffrey.a.ready/" target="_blank" rel="noopener noreferrer" className="hover:text-gold transition-colors">
                 <Instagram className="w-6 h-6" />
               </a>
             </div>

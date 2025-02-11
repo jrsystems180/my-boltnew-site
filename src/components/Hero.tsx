@@ -15,6 +15,7 @@ export default function Hero() {
       
       <div className="relative h-full flex items-center justify-center text-center px-4">
         <div className="max-w-4xl">
+          <img src="/attached_assets/RFSlogo.jpeg" alt="Ready Forest Solutions" className="w-24 h-24 object-contain mx-auto mb-6" />
           <h1 className="font-typewriter text-4xl md:text-6xl font-bold text-gold mb-6">
             Safe, Efficient, Eco-Friendly Tree Services in Alberta
           </h1>

@@ -18,7 +18,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="font-typewriter font-semibold text-lg text-gold">Phone</h3>
-                <p className="text-gold-light">(780) 555-0123</p>
+                <p className="text-gold-light">1+ (672) 968-0643</p>
               </div>
             </div>
             
@@ -28,7 +28,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="font-typewriter font-semibold text-lg text-gold">Email</h3>
-                <p className="text-gold-light">info@readyforest.com</p>
+                <p className="text-gold-light">readyfejeff@gmail.com</p>
               </div>
             </div>
             
