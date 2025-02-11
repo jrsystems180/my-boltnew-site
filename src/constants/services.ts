@@ -10,7 +10,7 @@ export const services: Service[] = [
   {
     title: 'Stump Grinding',
     image: '/attached_assets/image2.JPG',
-    description: 'Say goodbye to unsightly stumps with our professional stump grinding. We grind stumps down to below ground level, removing potential hazards and creating a smooth, even surface that's perfect for landscaping or construction projects.',
+    description: 'Say goodbye to unsightly stumps with our professional stump grinding. We grind stumps down to below ground level, removing potential hazards and creating a smooth, even surface that is perfect for landscaping or construction projects.',
   },
   {
     title: 'Tree Trimming',
