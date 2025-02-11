@@ -1,11 +1,11 @@
 modules = ["nodejs-20", "web"]
-run = "npm run dev"
+run = "git add ."
 
 [nix]
 channel = "stable-24_05"
 
 [deployment]
-run = ["sh", "-c", "npm run dev"]
+run = ["sh", "-c", "git add ."]
 
 [[ports]]
 localPort = 3000
